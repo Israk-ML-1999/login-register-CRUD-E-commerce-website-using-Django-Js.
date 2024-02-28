@@ -1,3 +1,3 @@
-# login-register-CRUD-E-commerce-website-using-Django-Js.
+# Login-Register-CRUD-E-commerce-website-using-Django-Js.
 
 # Complete Create, Read, Update, Delete (CRUD) 
